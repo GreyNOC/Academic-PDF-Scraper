@@ -24,6 +24,20 @@ Default output folder is configured inside the app and can be changed from the G
 - Auto-rotation across keyword profiles.
 - Create / edit / delete keyword profiles in the GUI; persisted to `keyword_profiles.json`.
 
+## Quick Start
+
+1. Install Python 3.10+
+2. Clone the repo:
+   ```
+   git clone https://github.com/GreyNOC/Academic-PDF-Scraper.git
+   ```
+3. Open the folder.
+4. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+5. Double-click `run_greynoc_scraper.bat`.
+
 ## Run from source
 
 Double-click `run_greynoc_scraper.bat`.
