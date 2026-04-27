@@ -2,6 +2,17 @@
 
 Windows GUI app for collecting higher-quality open-access PDFs from public academic sources.
 
+## Screenshots
+
+### Scraper
+![Scraper tab](docs/screenshots/scraper.png)
+
+### Statistics & History
+![Statistics tab](docs/screenshots/statistics.png)
+
+### Duplicate Scanner
+![Duplicate scanner tab](docs/screenshots/duplicates.png)
+
 Default output folder is configured inside the app and can be changed from the GUI.
 
 ## New in v2
