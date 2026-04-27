@@ -42,6 +42,8 @@ build/
 *.sqlite3
 *.sqlite3-journal
 *.db
+*.flag
+STOP_GREYNOC_SCRAPER.flag
 
 # IDE / editors
 .vscode/
