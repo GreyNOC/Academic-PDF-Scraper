@@ -5,7 +5,7 @@ Windows GUI app for collecting higher-quality open-access PDFs from public acade
 ## Screenshots
 
 ### Scraper
-![Scraper tab](docs/screenshots/scraper.png)
+![Scraper tab](docs/screenshots/scraper-v2.png)
 
 ### Statistics & History
 ![Statistics tab](docs/screenshots/statistics.png)
