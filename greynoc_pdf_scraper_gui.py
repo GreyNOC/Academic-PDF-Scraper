@@ -21,7 +21,7 @@ from tkinter import ttk, messagebox, filedialog
 
 APP_NAME = "GreyNOC PDF Scraper"
 BRAND = "GreyNOC"
-DEFAULT_DOWNLOAD_DIR = r"C:\Users\bsoul\OneDrive\Desktop\AiFace\Manual_pdfs"
+DEFAULT_DOWNLOAD_DIR = str(Path.home() / "Documents" / "GreyNOC_PDFs")
 
 APP_DIR = Path(__file__).resolve().parent
 STOP_FLAG = APP_DIR / "STOP_GREYNOC_SCRAPER.flag"
