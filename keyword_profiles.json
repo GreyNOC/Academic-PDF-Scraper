@@ -1,0 +1,87 @@
+{
+  "Core AI": [
+    "artificial intelligence",
+    "machine learning",
+    "deep learning",
+    "neural networks",
+    "transformers",
+    "large language models"
+  ],
+  "Advanced AI": [
+    "self supervised learning",
+    "multimodal models",
+    "generative ai",
+    "diffusion models",
+    "ai alignment",
+    "cognitive architectures"
+  ],
+  "Cybersecurity": [
+    "penetration testing",
+    "network security",
+    "exploit development",
+    "malware analysis",
+    "reverse engineering",
+    "vulnerability research"
+  ],
+  "Cloud DevOps": [
+    "cloud computing",
+    "kubernetes architecture",
+    "distributed systems",
+    "microservices",
+    "infrastructure as code",
+    "site reliability engineering"
+  ],
+  "GreyNOC Physics": [
+    "quantum field theory",
+    "unified field theory",
+    "wave resonance physics",
+    "harmonic oscillations",
+    "spacetime curvature",
+    "quantum gravity"
+  ],
+  "Complex Systems": [
+    "complex systems theory",
+    "nonlinear dynamics",
+    "chaos theory",
+    "information theory",
+    "emergent systems",
+    "systems biology"
+  ],
+  "Robotics": [
+    "robotics control systems",
+    "autonomous navigation",
+    "sensor fusion",
+    "computer vision robotics",
+    "human robot interaction"
+  ],
+  "Cognitive Science": [
+    "cognitive science",
+    "human learning models",
+    "decision making theory",
+    "neuroscience computation",
+    "perception modeling"
+  ],
+  "Finance Strategy": [
+    "algorithmic trading",
+    "financial modeling",
+    "economic forecasting",
+    "game theory",
+    "market dynamics"
+  ],
+  "GreyNOC Research Starter": [
+    "harmonic resonance",
+    "wave physics",
+    "artificial intelligence",
+    "cognitive architecture",
+    "complex systems",
+    "nonlinear dynamics"
+  ],
+  "Biomedical": [
+    "genomics",
+    "proteomics",
+    "computational biology",
+    "medical imaging",
+    "clinical trials",
+    "epidemiology"
+  ]
+}
